@@ -167,3 +167,13 @@ worked on [counter-react app](https://github.com/sarahaziziyan/counter-react)
 -I mainly read about OWASP standards. OWASP is an online community that produces freely-available articles, methodologies, documentation, tools, and technologies in the field of web application security.
 - Then I learned about Maven and installed it on my machin.
 - I tried to intigrate Java webapps with React, still struggling.
+
+
+
+### Day15
+---------------------------------------------------------------
+I think Maven and I will be best friends forever!
+I learned a lot of Maven today.
+I'm trying to integrate react with my javaEE code.
+
+
