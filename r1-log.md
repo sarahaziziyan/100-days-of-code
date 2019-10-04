@@ -181,3 +181,9 @@ I'm trying to integrate react with my javaEE code.
 ### Day16
 ---------------------------------------------------------------
 Today I spent 6+ hours on a bootcamp to learn about #Agile and #Scrum. I also continued with that maven project. did a little method to generate a Json array, nothin fancy. next step I will integrate it with my react app.
+
+
+### Day17
+---------------------------------------------------------------
+I spent the whole day on the #scrummastertraining that I talked about yesterday. I learned a ton of stuff about #agile and #scrum. I will definitely write a blog post and several Instagram posts about the things I learned. I'll let you guys know about it.
+make yourself work for 5 minutes for anything you think you don't feel like doing, trust me you will feel like you can do it afterward. this method kills any procrastination. I used this method today, and it works brilliantly. 
