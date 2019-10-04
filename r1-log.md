@@ -98,7 +98,7 @@ I should totally make my code pretty!
 ---------------------------------------------------------------
 my main focus today was to learn and code in React. so I watched mosh's video on React tutorial on youtube. It was really informative and well described in an understandable way.
 [counter-react app](https://github.com/sarahaziziyan/counter-react)
--------</>-------
+----------------
 **What I learned today:**
 - react Components
 - Specifying Children
@@ -177,3 +177,7 @@ I learned a lot of Maven today.
 I'm trying to integrate react with my javaEE code.
 
 
+
+### Day16
+---------------------------------------------------------------
+Today I spent 6+ hours on a bootcamp to learn about #Agile and #Scrum. I also continued with that maven project. did a little method to generate a Json array, nothin fancy. next step I will integrate it with my react app.
