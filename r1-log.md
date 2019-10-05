@@ -187,3 +187,7 @@ Today I spent 6+ hours on a bootcamp to learn about #Agile and #Scrum. I also co
 ---------------------------------------------------------------
 I spent the whole day on the #scrummastertraining that I talked about yesterday. I learned a ton of stuff about #agile and #scrum. I will definitely write a blog post and several Instagram posts about the things I learned. I'll let you guys know about it.
 make yourself work for 5 minutes for anything you think you don't feel like doing, trust me you will feel like you can do it afterward. this method kills any procrastination. I used this method today, and it works brilliantly. 
+
+### Day18
+---------------------------------------------------------------
+I worked on my [billsplitter app.](https://github.com/sarahaziziyan/BillSplitter). I'm convinced that if I don't follow a plan, I wouldn't be able to deliver a product at the end. I'm going to use what I learned in that scrum training into my own little projects as well and describe what to actually do.
